@@ -10,7 +10,7 @@
 body, html {
     color: #ffffff;
     background-color: #000000;
-  }
+}
 
 a, a:hover, a:visited {
     color: unset;
@@ -163,15 +163,12 @@ header {
     .show576 {
         display: table-cell;
     }
-
     .dsmeta-card {
         padding: 35px;
     }
-
     .dsmeta-sales-table tbody {
         font-size: 18px;
     }
-
     .dsmeta-sales-table tbody tr {
         height: 55px;
     }
